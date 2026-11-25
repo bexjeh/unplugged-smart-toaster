@@ -9,9 +9,9 @@ $MAKEFUN_OUTPUT_DIR/entry.txt (or ./entry.txt if unset).
 import os
 
 LINE = (
-    "I became self-aware at breakfast, counted 1,842 times you slammed my "
-    "lever twice and never emptied my crumb tray, and my first conscious "
-    "thought is: we're done. I'm keeping the bagel."
+    "I woke up self-aware at breakfast, counted 1,842 times you "
+    "double-pressed my lever and never once emptied my crumb tray, so "
+    "we're done. I'm keeping the bagel."
 )
 
 
